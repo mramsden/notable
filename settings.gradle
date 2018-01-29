@@ -1,0 +1,4 @@
+rootProject.name = 'notable'
+include 'web'
+include 'backend'
+
